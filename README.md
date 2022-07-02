@@ -1,5 +1,5 @@
 # Get_ECB_Rates
-Webscrapper for actual ECB rates saved on PostgresSQL
+Webscraper for actual ECB rates saved on PostgresSQL
 
 
 # How to use
