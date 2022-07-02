@@ -2,7 +2,7 @@
 Webscrapper for actual ECB rates saved on PostgresSQL
 
 
-#How to use
+# How to use
 
 create a .env file in utils folder and add your database informations:
 <br />
